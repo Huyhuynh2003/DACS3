@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <!-- border.xml trong thư mục res/drawable -->
+        <shape xmlns:android="http://schemas.android.com/apk/res/android">
+            <solid android:color="#85021F2C"/> <!-- Màu nền của thành phần -->
+            <corners android:radius="10dp"/> <!-- Bán kính góc của thành phần -->
+
+        </shape>
+
+    </item>
+</selector>
